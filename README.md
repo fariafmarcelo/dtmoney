@@ -22,5 +22,6 @@ Instale dtmoney com yarn
 
 ## Stack utilizada
 
-**Front-end:** React, StyledComponents, MirageJS, Axios
+**Front-end:** React, StyledComponents, Axios
 
+**Back-end:** MirageJS
